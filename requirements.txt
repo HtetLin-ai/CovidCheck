@@ -1,6 +1,6 @@
 streamlit
+tensorflow==2.16.2
 Pillow
 numpy
 pytest-shutil
 scikit-learn
-tensorflow==2.16.2
