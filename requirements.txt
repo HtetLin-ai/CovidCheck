@@ -1,6 +1,6 @@
 streamlit
 Pillow
 numpy
-pytest.shutil
+pytest-shutil
 scikit-learn
 tensorflow
