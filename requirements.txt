@@ -1,5 +1,5 @@
-streamlit
-Pillow==9.0.0
+streamlit==1.55.0
+Pillow==12.1.1
 tensorflow-cpu
 numpy
 pytest.shutil
