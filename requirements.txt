@@ -1,6 +1,6 @@
-streamlit
-Pillow
-numpy
-pytest-shutil
-scikit-learn
-tensorflow
+streamlit==1.55.0
+Pillow==12.1.1
+numpy==1.26.4
+pytest-shutil==1.8.1
+scikit-learn==1.8.0
+tensorflow==2.16.2
