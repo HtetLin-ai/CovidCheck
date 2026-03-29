@@ -3,3 +3,4 @@ Pillow
 numpy
 pytest-shutil
 scikit-learn
+tensorflow
