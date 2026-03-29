@@ -4,3 +4,5 @@ numpy==1.26.4
 pytest-shutil==1.8.1
 scikit-learn==1.8.0
 tensorflow==2.16.2
+tensorflow-macos
+tensorflow-metal
