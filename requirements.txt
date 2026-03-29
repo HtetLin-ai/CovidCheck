@@ -1,6 +1,5 @@
-streamlit
-Pillow
-tensorflow-cpu
+streamlit==1.55.0
+Pillow==12.1.1
 numpy
 pytest.shutil
 scikit-learn
