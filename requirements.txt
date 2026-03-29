@@ -3,5 +3,3 @@ Pillow
 numpy
 pytest-shutil
 scikit-learn
-tensorflow-macos
-tensorflow-metal
